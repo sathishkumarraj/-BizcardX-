@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="300" src="https://miro.medium.com/v2/resize:fit:1400/1*hVxkXe35kRcAht3QpJylyg.gif">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*hVxkXe35kRcAht3QpJylyg.gif">
 
 </a><h1>I am `SATHISH KUMAR`</h1>
 <h3 align="left">Connect with me:</h3>
